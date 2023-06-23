@@ -1,4 +1,4 @@
-# pomotimer
+# pomotimer🍅
 
 A new Flutter project.
 
